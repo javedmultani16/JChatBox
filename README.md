@@ -1,6 +1,6 @@
 # JChatBox
 
-
+Theme based Chat UI for iOS
 
 <img width="1088" alt="Screenshot 2021-11-14 at 10 15 05 PM" src="https://user-images.githubusercontent.com/16849127/141690127-6c0ec591-66eb-4c43-987d-9de78750087d.png">
 
